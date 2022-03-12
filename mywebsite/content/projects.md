@@ -1,7 +1,8 @@
 ---
 title: "Projects"
-draft: true
-type: "page"
+draft: false
+date: 2022-03-12T13:32:24+01:00
+type: page
 layout: singlepage
 ---
 
