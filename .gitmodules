@@ -1,0 +1,4 @@
+[submodule "mywebsite/public"]
+	path = mywebsite/public
+	url = git@github.com:proalgor/proalgor.github.io.git
+	branch = main
