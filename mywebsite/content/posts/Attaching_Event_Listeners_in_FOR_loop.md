@@ -71,7 +71,6 @@ A code solution.
         for (var i = 0; i<buttons.length; i++){
             (function(){
                 var number = i
-                console.log(buttons.length)
                 buttons[i].addEventListener('click',function (){
                     console.log(number)
                 })
@@ -105,9 +104,8 @@ A more modern solution is to use the `let` keyword for the definition, which pro
     <script>
         let buttons = document.querySelectorAll('.btn');
         for (let i = 0; i < buttons.length; i++){
-            console.log(buttons.length)
             buttons[i].addEventListener('click',function (){
-                console.log(number)
+                console.log(i)
             })
         }
     </script>
