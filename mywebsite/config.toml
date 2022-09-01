@@ -15,8 +15,8 @@ theme = "minima"
 # Author has some of your information to be shown on the home page.
 [author]
 name = "Francis Onyishi"
-slogon = "The process is important | Dont rush it 🤓"
-description = "I am a full-stack engineer with a keen attention to the design and usability of applications. I have a good understanding of product development and effective software design through the experience of building client-facing apps bla bla... enough of the formalities😁. Here we try to be as free as possible."
+slogon = "Getting down to where the rubber meets the road 🤓"
+description = "I am a full-stack engineer with a keen attention to the design and usability of applications. I have a good understanding of product development and effective software design. I believe a lot in processes. Here I try to drop some of my logs..."
 
 
 [params]
@@ -73,7 +73,7 @@ issueTerm = "pathname"
 # where `<svg>` is the svg code.
 [[params.social]]
 name = "github"  
-url = "https://github.com/proalgor"
+url = "https://github.com/bytrebase"
 svg = ""
 [[params.social]]
 name = "linkedin"
@@ -81,7 +81,7 @@ url = "https://linkedin.com/in/francis-onyishi"
 svg = ""
 [[params.social]]
 name = "twitter"
-url = "https://twitter.com/proalgor"
+url = "https://twitter.com/fran__is"
 svg = ""
 [[params.social]]
 name = "rss"
