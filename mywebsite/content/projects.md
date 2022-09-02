@@ -17,7 +17,7 @@ Playing with webhooks, cron-jobs and race-conditions for updates
 Very typed code
 
 
-**Spoteefy [live](spoteefy.netlify.app) | [code](https://github.com/bytrebase/spoteefy)**  
+**Spoteefy [live](https://spoteefy.netlify.app) | [code](https://github.com/bytrebase/spoteefy)**  
 A webapp to help spotify users curate and export songs to a playlist  
 ***fun fact:***  
 Improved build speed of Typescript with Webpack and SWC(rust)
