@@ -73,7 +73,7 @@ issueTerm = "pathname"
 # where `<svg>` is the svg code.
 [[params.social]]
 name = "github"  
-url = "https://github.com/bytrebase"
+url = "https://github.com/bytemerger"
 svg = ""
 [[params.social]]
 name = "linkedin"
